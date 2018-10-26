@@ -14,10 +14,10 @@
 
 * [Cherry Blossom](https://editor.p5js.org/jjwp5js/sketches/H19NL5e3Q)
 
-* [Draw Circle] (https://editor.p5js.org/jjwp5js/sketches/S1IvL9lnQ)
+* [Draw Circle](https://editor.p5js.org/jjwp5js/sketches/S1IvL9lnQ)
 
-* [Circle Packing] (https://editor.p5js.org/jjwp5js/sketches/rJtsI5e3Q)
+* [Circle Packing](https://editor.p5js.org/jjwp5js/sketches/rJtsI5e3Q)
 
-* [Lorenz Attractor] (https://editor.p5js.org/jjwp5js/sketches/S1obPql2X)
+* [Lorenz Attractor](https://editor.p5js.org/jjwp5js/sketches/S1obPql2X)
 
-* [Oil Painter] (https://editor.p5js.org/jjwp5js/sketches/rJkqwcl2X)
+* [Oil Painter](https://editor.p5js.org/jjwp5js/sketches/rJkqwcl2X)
